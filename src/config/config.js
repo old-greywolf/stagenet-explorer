@@ -12,7 +12,7 @@ export default {
     explorerApi: 'https://api.nerva.one/daemon/explorer/index.php',
     websiteUrl: 'https://explorer.nerva.one/',
     footerAppTitle: 'Nerva Block Explorer',
-    copyright: '2022 The Nerva Project',
+    copyright: '2026 The Nerva Project',
     footerLinks: [
         {
             name: 'Nerva Website',
@@ -35,11 +35,6 @@ export default {
             url: 'https://discord.com/invite/jsdbEns/'
         },
         {
-            name: 'Reddit',
-            icon: 'fab fa-reddit-alien',
-            url: 'https://www.reddit.com/r/Nerva/'
-        },
-        {
             name: 'Twitter',
             icon: 'fab fa-twitter',
             url: 'http://twitter.com/NervaCurrency'
@@ -47,7 +42,12 @@ export default {
         {
             name: 'Telegram',
             icon: 'fab fa-telegram-plane',
-            url: 'https://t.me/NervaXNV'
+            url: 'https://t.me/NervaCrypto'
+        },
+        {
+            name: 'Reddit',
+            icon: 'fab fa-reddit-alien',
+            url: 'https://www.reddit.com/r/NervaCrypto'
         }
     ]
 };
